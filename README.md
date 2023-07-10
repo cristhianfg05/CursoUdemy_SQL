@@ -1,5 +1,5 @@
 # CursoUdemy_SQL
-In this repository, you will find all the files and exercises completed during my SQL course on Udemy. The course covered a wide range of topics, starting from the basics and progressing to advanced concepts, including table alterations, view creation, and trigger usage.
+In this repository, you will find all the files and examples completed during my SQL course on Udemy. The course covered a wide range of topics, starting from the basics and progressing to advanced concepts, including table alterations, view creation, and trigger usage.
 Contents
 
     SQL Files: This folder contains all the SQL files created during the course. It includes scripts for table creation, data insertion, SELECT queries, updates, deletions, and table structure modifications.
